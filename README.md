@@ -1,2 +1,2 @@
-# 0.13mm-
+# 0.13mm² CuSn Alloy
 Innovation cable study
